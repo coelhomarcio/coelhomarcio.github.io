@@ -17,7 +17,7 @@ Projeto da disciplina _Criação de Conteúdo na Web_ realizado no 1º Ciclo do 
 
 Profa. Dra. Vanina Carrara Sigrist
 
-[<img align="left" src="img/bg/logo.png" width="200">](https://coelhomarcio.github.io/si-1st-ppsi-i-po/)
+[<img align="left" src="img/po/logo.svg" width="200">](https://coelhomarcio.github.io/si-1st-ppsi-i-po/)
 
 ## [Projeto Orientado](https://coelhomarcio.github.io/si-1st-ppsi-i-po/)
 
