@@ -30,3 +30,5 @@ Projeto da disciplina _Padrões de Projeto de Sítios Internet I_ realizado no 1
 * Marcio Coelho [✉️](mailto:marciocoelho@gmail.com)
 
 Prof. Me. Alexandre Sobrino Ganança
+
+> "... the total was greater than the sum of the parts." - _Steve Jobs_
