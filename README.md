@@ -1,6 +1,6 @@
 # Repositório público de Marcio Coelho
 
-[](<img align="right" src="img/logo.png" width="200">)
+[<img align="right" src="img/logo.png" width="200">](https://coelhomarcio.github.io/si-1st-ccw-bg/)
 
 ## [Blind Guardian](https://coelhomarcio.github.io/si-1st-ccw-bg/)
 
