@@ -8,11 +8,11 @@ Projeto da disciplina _Criação de Conteúdo na Web_ realizado no 1º Ciclo do 
 
 ### Integrantes
 
-* Felipe Santos [:mailbox:](mailto:felipe.f.f013@gmail.com)
-* Helio Gabriel [:mailbox:](mailto:helio.dias@fatec.sp.gov.br)
-* João Henrique [:mailbox:](mailto:asfagalde@gmail.com)
-* Lucca Costa [:mailbox:](mailto:lucca.santos@fatec.sp.gov.br)
-* Marcio Coelho [:mailbox:](mailto:marciocoelho@gmail.com)
-* Yuri Raposo [:mailbox:](mailto:yurioliveira1121@gmail.com)
+* Felipe Santos [✉️](mailto:felipe.f.f013@gmail.com)
+* Helio Gabriel [✉️](mailto:helio.dias@fatec.sp.gov.br)
+* João Henrique [✉️](mailto:asfagalde@gmail.com)
+* Lucca Costa [✉️](mailto:lucca.santos@fatec.sp.gov.br)
+* Marcio Coelho [✉️](mailto:marciocoelho@gmail.com)
+* Yuri Raposo [✉️](mailto:yurioliveira1121@gmail.com)
 
 Profa. Dra. Vanina Carrara Sigrist
