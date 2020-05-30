@@ -31,10 +31,10 @@ Projeto da disciplina _Padrões de Projeto de Sítios Internet I_ realizado no 1
 
 Prof. Me. Alexandre Sobrino Ganança
 
-[<img align="right" src="img/a01/logo-fatec.png" width="200">](https://coelhomarcio.github.io/si-2st-ppsi-ii-a01/)
+[<img align="right" src="img/a01/logo-fatec.png" width="200">](https://coelhomarcio.github.io/si-2nd-ppsi-ii-a01/)
 
-## [Avaliação 01](https://coelhomarcio.github.io/si-2st-ppsi-ii-a01/)
+## [Avaliação 01](https://coelhomarcio.github.io/si-2nd-ppsi-ii-a01/)
 
-### [Descrição](https://coelhomarcio.github.io/si-2st-ppsi-ii-a01/README.md)
+### [Descrição](https://coelhomarcio.github.io/si-2nd-ppsi-ii-a01/README.md)
 
 > "... the total was greater than the sum of the parts." - _Steve Jobs_
