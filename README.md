@@ -8,12 +8,12 @@ Projeto da disciplina _Criação de Conteúdo na Web_ realizado no 1º Ciclo do 
 
 ### Integrantes
 
-* Felipe Santos [✉️](mailto:felipe.f.f013@gmail.com)
-* Helio Gabriel [✉️](mailto:helio.dias@fatec.sp.gov.br)
-* João Henrique [✉️](mailto:asfagalde@gmail.com)
-* Lucca Costa [✉️](mailto:lucca.santos@fatec.sp.gov.br)
-* Marcio Coelho [✉️](mailto:marciocoelho@gmail.com)
-* Yuri Raposo [✉️](mailto:yurioliveira1121@gmail.com)
+- Felipe Santos [✉️](mailto:felipe.f.f013@gmail.com)
+- Helio Gabriel [✉️](mailto:helio.dias@fatec.sp.gov.br)
+- João Henrique [✉️](mailto:asfagalde@gmail.com)
+- Lucca Costa [✉️](mailto:lucca.santos@fatec.sp.gov.br)
+- Marcio Coelho [✉️](mailto:marciocoelho@gmail.com)
+- Yuri Raposo [✉️](mailto:yurioliveira1121@gmail.com)
 
 Profa. Dra. Vanina Carrara Sigrist
 
@@ -25,10 +25,16 @@ Projeto da disciplina _Padrões de Projeto de Sítios Internet I_ realizado no 1
 
 ### Integrantes
 
-* Felipe Santos [✉️](mailto:felipe.f.f013@gmail.com)
-* Lucca Costa [✉️](mailto:lucca.santos@fatec.sp.gov.br)
-* Marcio Coelho [✉️](mailto:marciocoelho@gmail.com)
+- Felipe Santos [✉️](mailto:felipe.f.f013@gmail.com)
+- Lucca Costa [✉️](mailto:lucca.santos@fatec.sp.gov.br)
+- Marcio Coelho [✉️](mailto:marciocoelho@gmail.com)
 
 Prof. Me. Alexandre Sobrino Ganança
+
+[<img align="right" src="img/a01/logo-fatec.png" width="200">](https://coelhomarcio.github.io/si-2st-ppsi-ii-a01/)
+
+## [Avaliação 01](https://coelhomarcio.github.io/si-2st-ppsi-ii-a01/)
+
+### [Descrição](https://coelhomarcio.github.io/si-2st-ppsi-ii-a01/README.md)
 
 > "... the total was greater than the sum of the parts." - _Steve Jobs_
